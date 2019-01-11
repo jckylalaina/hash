@@ -1,0 +1,1 @@
+ceci est notre projet ruby d'aujourd'hui avec mon collaborateur RjFanotiana
